@@ -1,0 +1,24 @@
+{
+  "name": "noc-2016-v1.3",
+  "version": "1.0.0",
+  "description": "Parse NOC 2016 CSV to JSON",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogadev/NOC-2016-v1.3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogadev/NOC-2016-v1.3/issues"
+  },
+  "homepage": "https://github.com/rogadev/NOC-2016-v1.3#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
