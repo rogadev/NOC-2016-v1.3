@@ -1,31 +1,97 @@
+const { raw } = require('express')
 const fs = require('fs')
 
-const rawData = require('./stage3.json')
-
-const codes = new Set(rawData.map((x) => x.code))
+const rawData = require('./stage4.json')
 
 const output = []
 
-for (const code of codes) {
+rawData.forEach((i) => {
+  const requirements = i.requirements
+  const educationalRequirements = []
+  const otherRequirements = []
+  const experienceRequirements = []
+  let requiresExperience = false
+
+  requirements.forEach((req) => {
+    if (requiresEducation(req)) {
+      educationalRequirements.push(req)
+    } else if (requiresExperience(req)) {
+      experienceRequirements.push(req)
+    } else {
+      otherRequirements.push(req)
+    }
+    if (requiresExperience(req)) {
+      requiresExperience = true
+    }
+  })
+
   const newGroup = {
-    code,
-    title: rawData.find((x) => x.code === code).title,
-    examples: rawData
-      .filter((x) => x.code === code)
-      .filter(
-        (x) => x.type === 'Illustrative example(s)' || x.type === 'All examples'
-      )
-      .map((x) => x.desc.trim()),
-    duties: rawData
-      .filter((x) => x.code === code)
-      .filter((x) => x.type === 'Main duties')
-      .map((x) => x.desc.trim()),
-    requirements: rawData
-      .filter((x) => x.code === code)
-      .filter((x) => x.type === 'Employment requirements')
-      .map((x) => x.desc.trim()),
+    code: i.code,
+    group: i.title,
+    examples: i.examples,
+    duties: i.duties,
+    education: educationalRequirements,
+    experience: experienceRequirements,
+    requirements: otherRequirements,
+    requires_experience: requiresExperience,
   }
   output.push(newGroup)
+})
+
+function requiresEducation(rawPhrase) {
+  const phrase = rawPhrase
+    .toLowerCase()
+    .replace(',', '')
+    .replace('.', '')
+    .trim()
+  const keywords = [
+    'diploma',
+    'degree',
+    'certificate',
+    'certificates',
+    'certification',
+    'certified',
+    'red seal',
+    'apprenticeship program',
+    'completion of college',
+    'completion of a college',
+    'completion of university',
+    'completion of a university',
+    'specific college training',
+    'specific university training',
+    'technical institution',
+    'post-secondary',
+    'secondary school',
+  ]
+  const absolutes = [
+    'is required',
+    'usually required',
+    'may be required',
+    'often required',
+  ]
+  return (
+    keywords.some((keyword) => phrase.includes(keyword)) &&
+    absolutes.some((key) => phrase.includes(key))
+  )
 }
 
-fs.writeFileSync('./stage4.json', JSON.stringify(output, null, 2))
+function requiresExperience(rawPhrase) {
+  const phrase = rawPhrase
+    .toLowerCase()
+    .replace(',', '')
+    .replace('.', '')
+    .trim()
+  const keywords = [
+    'years of managerial experience',
+    'years of experience',
+    'experience in the type of work supervised is required',
+    'year of experience',
+  ]
+  const absolutes = ['is required', 'usually required', 'often required']
+  return (
+    keywords.some((keyword) => phrase.includes(keyword)) &&
+    absolutes.some((key) => phrase.includes(key))
+  )
+}
+
+fs.writeFileSync('./stage5.json', JSON.stringify(output, null, 2))
