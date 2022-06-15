@@ -10,7 +10,7 @@ rawData.forEach((i) => {
   const educationalRequirements = []
   const otherRequirements = []
   const experienceRequirements = []
-  let requiresExperience = false
+  let doesRequireExperience = false
 
   requirements.forEach((req) => {
     if (requiresEducation(req)) {
@@ -21,7 +21,7 @@ rawData.forEach((i) => {
       otherRequirements.push(req)
     }
     if (requiresExperience(req)) {
-      requiresExperience = true
+      doesRequireExperience = true
     }
   })
 
@@ -33,11 +33,14 @@ rawData.forEach((i) => {
     education: educationalRequirements,
     experience: experienceRequirements,
     requirements: otherRequirements,
-    requires_experience: requiresExperience,
+    requires_experience: doesRequireExperience,
   }
   output.push(newGroup)
 })
 
+/**
+ *
+ */
 function requiresEducation(rawPhrase) {
   const phrase = rawPhrase
     .toLowerCase()
@@ -74,6 +77,12 @@ function requiresEducation(rawPhrase) {
     absolutes.some((key) => phrase.includes(key))
   )
 }
+
+/**
+ * Determine if the given phrase contains a combination of keywords that suggests that experience either "is" or "is usually" required to obtain this role.
+ * @param    {String}  rawPhrase  - The given phrase to evaluate.
+ * @returns  {Boolean}            -True if phrase suggests that experience is required, else false.
+ */
 
 function requiresExperience(rawPhrase) {
   const phrase = rawPhrase
