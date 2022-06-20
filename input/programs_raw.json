@@ -1,0 +1,1862 @@
+[
+  {
+    "title": "Psychedelic-Assisted Therapy ",
+    "nid": "9550",
+    "credential": "Graduate Certificate",
+    "length_days": null,
+    "location_offered": "Nanaimo,Online",
+    "options": "",
+    "program_area": "10",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Esthetics and Spa Therapy",
+    "nid": "9185",
+    "credential": "Certificate",
+    "length_days": "240",
+    "location_offered": "Parksville Qualicum",
+    "options": "",
+    "program_area": "4",
+    "field_viu_search_keywords": "Esthetics and Spa Therapy, Continuing Education, Continuing Studies"
+  },
+  {
+    "title": "Computer Science Honours",
+    "nid": "9143",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "3",
+    "field_viu_search_keywords": "analytics, artificial intelligence, data, information technology, software engineering"
+  },
+  {
+    "title": "Psychology Honours (BSc)",
+    "nid": "9115",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Honours",
+    "program_area": "9",
+    "field_viu_search_keywords": "counseling, counselling, psycology"
+  },
+  {
+    "title": "Baking and Pastry Arts Management",
+    "nid": "9005",
+    "credential": "Diploma",
+    "length_days": null,
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "4",
+    "field_viu_search_keywords": "baker"
+  },
+  {
+    "title": "Aquaculture (BSc)",
+    "nid": "9004",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Minor",
+    "program_area": "9",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Aquaculture (BA)",
+    "nid": "9000",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Post-Degree Diploma in Natural Resource Law Enforcement",
+    "nid": "8700",
+    "credential": "Post-Degree Diploma",
+    "length_days": null,
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "9",
+    "field_viu_search_keywords": "environmental"
+  },
+  {
+    "title": "Information Technology and Applied Systems – Web and Mobile Development Diploma",
+    "nid": "7222",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "4",
+    "field_viu_search_keywords": "itas, software engineering"
+  },
+  {
+    "title": "Online ESL",
+    "nid": "7203",
+    "credential": "Non-Credit",
+    "length_days": "112",
+    "location_offered": "Online",
+    "options": "",
+    "program_area": "12",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Professional Indigenous Lands Management Certificate",
+    "nid": "7138",
+    "credential": "Certificate",
+    "length_days": null,
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "3",
+    "field_viu_search_keywords": "First Nations, indigenous"
+  },
+  {
+    "title": "Apprenticeship Programs",
+    "nid": "7127",
+    "credential": "",
+    "length_days": null,
+    "location_offered": "",
+    "options": "",
+    "program_area": "4",
+    "field_viu_search_keywords": "Automotive, glass technician, baker, Baking, carpenter, Carpentry, cook, Electrical, electrician, Heavy Mechanical, mechanic, Motorcycle, Marine, red seal, Refrigeration, Trades, welder, Welding"
+  },
+  {
+    "title": "Bachelor of Kinesiology",
+    "nid": "7125",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "11",
+    "field_viu_search_keywords": "athletics, biomechanics, kinesiology, medical terminology, occupational therapy, personal trainer, physiotherapy"
+  },
+  {
+    "title": "Geography Honours (BA)",
+    "nid": "7113",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "",
+    "options": "",
+    "program_area": "3",
+    "field_viu_search_keywords": "urban planning"
+  },
+  {
+    "title": "Integrated Engineering Technologist Diploma",
+    "nid": "7095",
+    "credential": "Diploma",
+    "length_days": null,
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "9",
+    "field_viu_search_keywords": "architecture, aerospace, aviation, civil engineering, civil technologist, engineering, engineering diploma, engineering technologist, mechanical, mechanics, tech sector"
+  },
+  {
+    "title": "Graduate Diploma in Hospitality Management",
+    "nid": "7064",
+    "credential": "Graduate Diploma",
+    "length_days": null,
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "1",
+    "field_viu_search_keywords": "Hotel Management"
+  },
+  {
+    "title": "Anthropology Honours (BA)",
+    "nid": "6530",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Engineering Transfer Diploma",
+    "nid": "5083",
+    "credential": "Transfer Program",
+    "length_days": null,
+    "location_offered": "Nanaimo",
+    "options": "Transfer Program",
+    "program_area": "9",
+    "field_viu_search_keywords": "architecture, aerospace, aviation, civil engineering, mechanical, mechanics"
+  },
+  {
+    "title": "Indigenous/Xwulmuxw Studies (BA)",
+    "nid": "4980",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major,Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": "Aboriginal, First Nations, indigenous"
+  },
+  {
+    "title": "Graduate Diploma in Project Management",
+    "nid": "4196",
+    "credential": "Graduate Diploma",
+    "length_days": null,
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "2",
+    "field_viu_search_keywords": "construction management"
+  },
+  {
+    "title": "Fundamentals of Forest Harvesting Practices ",
+    "nid": "4194",
+    "credential": "Certificate",
+    "length_days": null,
+    "location_offered": "",
+    "options": "",
+    "program_area": "4",
+    "field_viu_search_keywords": "forestry, forester"
+  },
+  {
+    "title": "Graduate Diploma in International Trade",
+    "nid": "4139",
+    "credential": "Graduate Diploma",
+    "length_days": null,
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "2",
+    "field_viu_search_keywords": "gdit"
+  },
+  {
+    "title": "Cooperative Entrepreneur Training Certificate",
+    "nid": "4138",
+    "credential": "Certificate",
+    "length_days": null,
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "7",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Transfer Program",
+    "nid": "4134",
+    "credential": "Transfer Program",
+    "length_days": null,
+    "location_offered": "",
+    "options": "",
+    "program_area": "",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Certificate",
+    "nid": "4133",
+    "credential": "Certificate",
+    "length_days": null,
+    "location_offered": "",
+    "options": "",
+    "program_area": "",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Diploma",
+    "nid": "4132",
+    "credential": "Diploma",
+    "length_days": null,
+    "location_offered": "",
+    "options": "",
+    "program_area": "",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Bachelor Degree",
+    "nid": "4131",
+    "credential": "Bachelor Degree",
+    "length_days": null,
+    "location_offered": "",
+    "options": "",
+    "program_area": "",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Advanced Diploma",
+    "nid": "4130",
+    "credential": "Advanced Diploma",
+    "length_days": null,
+    "location_offered": "",
+    "options": "",
+    "program_area": "",
+    "field_viu_search_keywords": "graduate, post graduate"
+  },
+  {
+    "title": "Post-Degree Diploma",
+    "nid": "4129",
+    "credential": "Post-Degree Diploma",
+    "length_days": null,
+    "location_offered": "",
+    "options": "",
+    "program_area": "",
+    "field_viu_search_keywords": "graduate, post graduate"
+  },
+  {
+    "title": "Graduate Diploma",
+    "nid": "4127",
+    "credential": "Graduate Diploma",
+    "length_days": null,
+    "location_offered": "",
+    "options": "",
+    "program_area": "",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Master Degree",
+    "nid": "4126",
+    "credential": "Master Degree",
+    "length_days": null,
+    "location_offered": "",
+    "options": "",
+    "program_area": "",
+    "field_viu_search_keywords": "graduate, Graduate Programs, MSc"
+  },
+  {
+    "title": "Associate Degree",
+    "nid": "4125",
+    "credential": "Associate Degree",
+    "length_days": null,
+    "location_offered": "",
+    "options": "",
+    "program_area": "8",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Biology Honours",
+    "nid": "4123",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "9",
+    "field_viu_search_keywords": "biotechnology, biotechnologist, botany, dentistry, ecology, environmental, food sciences, Marine, marine biologist, marine biology, nutritionist, phycology, vet, veterinary, veterinarian, vetinary, vetinarian, zoology"
+  },
+  {
+    "title": "Exploratory University Studies (EXPO)",
+    "nid": "3833",
+    "credential": "",
+    "length_days": null,
+    "location_offered": "Cowichan,Nanaimo",
+    "options": "",
+    "program_area": "8",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Bachelor of Business Administration (BBA), Majors and Minors",
+    "nid": "3527",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "2",
+    "field_viu_search_keywords": "analytics, buisness, commerce, supply chain"
+  },
+  {
+    "title": "Management (BBA)",
+    "nid": "3483",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major,Minor",
+    "program_area": "2",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Marketing (BBA)",
+    "nid": "3482",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Cowichan,Nanaimo",
+    "options": "Major,Minor",
+    "program_area": "2",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "International Business (BBA)",
+    "nid": "3481",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major,Minor",
+    "program_area": "2",
+    "field_viu_search_keywords": "analytics, buisness, commerce, international relations"
+  },
+  {
+    "title": "Human Resources Management (BBA)",
+    "nid": "3480",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major,Minor",
+    "program_area": "2",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Financial Services (BBA)",
+    "nid": "3479",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major",
+    "program_area": "2",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Economics (BBA)",
+    "nid": "3478",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major",
+    "program_area": "2",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Accounting (BBA)",
+    "nid": "3477",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Cowichan,Nanaimo",
+    "options": "Major",
+    "program_area": "2",
+    "field_viu_search_keywords": "book keeping, bookkeeping"
+  },
+  {
+    "title": "Legal Studies",
+    "nid": "3442",
+    "credential": "Certificate",
+    "length_days": null,
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Languages and Culture (Romance Languages) (BSc)",
+    "nid": "3356",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Minor",
+    "program_area": "9",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "ElderCollege",
+    "nid": "3341",
+    "credential": "Non-Credit",
+    "length_days": null,
+    "location_offered": "",
+    "options": "",
+    "program_area": "11",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Sociology Honours (BA)",
+    "nid": "3326",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Graduate Diploma in Sustainable Leisure Management",
+    "nid": "3325",
+    "credential": "Graduate Diploma",
+    "length_days": null,
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "1",
+    "field_viu_search_keywords": "travel"
+  },
+  {
+    "title": "Psychology Honours (BA)",
+    "nid": "3322",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "3",
+    "field_viu_search_keywords": "counseling, counselling, psycology"
+  },
+  {
+    "title": "History Honours (BA)",
+    "nid": "3318",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Teaching English as a Second or Foreign Language (TESOL)",
+    "nid": "3299",
+    "credential": "Non-Credit",
+    "length_days": null,
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "12",
+    "field_viu_search_keywords": "Teaching English, TESL, TEFL, TESOL"
+  },
+  {
+    "title": "Philosophy Honours (BA)",
+    "nid": "3270",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Graduate Certificate in Business",
+    "nid": "2495",
+    "credential": "Graduate Certificate",
+    "length_days": "365",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "2",
+    "field_viu_search_keywords": "analytics, buisness, commerce, gcib"
+  },
+  {
+    "title": "Inclusive Education (Special Education) Graduate Diploma",
+    "nid": "1342",
+    "credential": "Graduate Diploma",
+    "length_days": "480",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "11",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "English Honours (BA)",
+    "nid": "1341",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Education Assistant and Community Support",
+    "nid": "1338",
+    "credential": "Certificate",
+    "length_days": "240",
+    "location_offered": "Nanaimo,Powell River",
+    "options": "",
+    "program_area": "13",
+    "field_viu_search_keywords": "Educational Assistant"
+  },
+  {
+    "title": "Certificate in Adventure Tourism and Recreation ",
+    "nid": "1301",
+    "credential": "Certificate",
+    "length_days": "365",
+    "location_offered": "Powell River",
+    "options": "",
+    "program_area": "1",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Addiction Studies",
+    "nid": "1294",
+    "credential": "Certificate",
+    "length_days": null,
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "3",
+    "field_viu_search_keywords": "addicts"
+  },
+  {
+    "title": "Graduate Diploma in Gerontology: Active Aging",
+    "nid": "1166",
+    "credential": "Graduate Diploma",
+    "length_days": "480",
+    "location_offered": "Parksville Qualicum",
+    "options": "",
+    "program_area": "10",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Bachelor of Fine Arts – Theatre Transfer",
+    "nid": "320",
+    "credential": "Transfer Program",
+    "length_days": "365",
+    "location_offered": "Nanaimo",
+    "options": "Transfer Program",
+    "program_area": "6",
+    "field_viu_search_keywords": "actor, actress, acting"
+  },
+  {
+    "title": "Languages and Culture (Romance Languages) (BA)",
+    "nid": "319",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Post-Degree Diploma in Languages and Culture (Romance Languages)",
+    "nid": "318",
+    "credential": "Post-Degree Diploma",
+    "length_days": "365",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "3",
+    "field_viu_search_keywords": "graduate, post graduate"
+  },
+  {
+    "title": " Culinary Arts and Baking and Pastry Arts Management Bridging",
+    "nid": "315",
+    "credential": "Transfer Program",
+    "length_days": null,
+    "location_offered": "Nanaimo",
+    "options": "Transfer Program",
+    "program_area": "1",
+    "field_viu_search_keywords": "cook, food, professional cook, red seal"
+  },
+  {
+    "title": "Physical Education",
+    "nid": "313",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "11",
+    "field_viu_search_keywords": "kinesiology, physiotherapy, occupational therapy, biomechanics, personal trainer"
+  },
+  {
+    "title": "Animal Care Aide",
+    "nid": "311",
+    "credential": "Certificate",
+    "length_days": "210",
+    "location_offered": "Nanaimo,Online",
+    "options": "",
+    "program_area": "299",
+    "field_viu_search_keywords": "Continuing Education, Continuing Studies, vetinary, veterinarian, vet"
+  },
+  {
+    "title": "Medical Device Reprocessing Technician",
+    "nid": "305",
+    "credential": "Certificate",
+    "length_days": "154",
+    "location_offered": "Nanaimo,Online",
+    "options": "",
+    "program_area": "299",
+    "field_viu_search_keywords": "Continuing Education, Continuing Studies"
+  },
+  {
+    "title": "Medical Office Assistant",
+    "nid": "306",
+    "credential": "Certificate",
+    "length_days": "70",
+    "location_offered": "Online",
+    "options": "",
+    "program_area": "299",
+    "field_viu_search_keywords": "book keeping, bookkeeping, Continuing Education, Continuing Studies"
+  },
+  {
+    "title": "Hospital Unit Coordinator",
+    "nid": "307",
+    "credential": "Certificate",
+    "length_days": "120",
+    "location_offered": "Nanaimo,Online",
+    "options": "",
+    "program_area": "299",
+    "field_viu_search_keywords": "Continuing Education, Continuing Studies"
+  },
+  {
+    "title": "Master Gardener",
+    "nid": "304",
+    "credential": "Non-Credit",
+    "length_days": "360",
+    "location_offered": "Cowichan",
+    "options": "",
+    "program_area": "299",
+    "field_viu_search_keywords": "Continuing Education, Continuing Studies"
+  },
+  {
+    "title": "British Columbia First Nations Building Inspector",
+    "nid": "301",
+    "credential": "Certificate",
+    "length_days": null,
+    "location_offered": "",
+    "options": "",
+    "program_area": "299",
+    "field_viu_search_keywords": "Aboriginal, Continuing Education, Continuing Studies, indigenous"
+  },
+  {
+    "title": "Managing Conflict In The Workplace",
+    "nid": "300",
+    "credential": "Certificate",
+    "length_days": "10",
+    "location_offered": "",
+    "options": "",
+    "program_area": "299",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Proficiency in Language and Culture",
+    "nid": "295",
+    "credential": "Certificate",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Master of Community Planning",
+    "nid": "294",
+    "credential": "Master Degree",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "3",
+    "field_viu_search_keywords": "architecture, civil engineering, urban planning"
+  },
+  {
+    "title": "Master of Geographic Information Systems (GIS) Applications",
+    "nid": "293",
+    "credential": "Master Degree",
+    "length_days": "730",
+    "location_offered": "Nanaimo,Online",
+    "options": "",
+    "program_area": "3",
+    "field_viu_search_keywords": "data, geomatics, information management, remote sensing"
+  },
+  {
+    "title": "Earth Science (BA)",
+    "nid": "290",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Bachelor of Arts (BA), Honours, Majors, and Minors",
+    "nid": "289",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Cowichan,Nanaimo",
+    "options": "",
+    "program_area": "3",
+    "field_viu_search_keywords": "ba, bachelor of arts"
+  },
+  {
+    "title": "Culinary Management",
+    "nid": "287",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "Apprenticeship,Co-op",
+    "program_area": "4",
+    "field_viu_search_keywords": "cook, food"
+  },
+  {
+    "title": "Post-Degree Diploma in Fisheries and Aquaculture",
+    "nid": "282",
+    "credential": "Post-Degree Diploma",
+    "length_days": "365",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "9",
+    "field_viu_search_keywords": "graduate, post graduate"
+  },
+  {
+    "title": "Digital Media (BA)",
+    "nid": "189",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": "photography, videography"
+  },
+  {
+    "title": "Criminology",
+    "nid": "197",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "3",
+    "field_viu_search_keywords": "criminal justice, law enforcement, police"
+  },
+  {
+    "title": "BC Adult Graduation Diploma",
+    "nid": "264",
+    "credential": "Non-Credit",
+    "length_days": null,
+    "location_offered": "Cowichan,Nanaimo,Powell River",
+    "options": "",
+    "program_area": "7",
+    "field_viu_search_keywords": "BC Adult Graduation Diploma, bc graduation program, dogwood diploma bc, graduation certificate, adult dogwood, how can i finish my high school diploma, high school education for adults"
+  },
+  {
+    "title": "Theatre",
+    "nid": "249",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "Transfer Program",
+    "program_area": "6",
+    "field_viu_search_keywords": "actor, actress, acting"
+  },
+  {
+    "title": "Jazz Studies",
+    "nid": "221",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "6",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Bachelor of Music – Classical Transfer",
+    "nid": "141",
+    "credential": "Transfer Program",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "Transfer Program",
+    "program_area": "6",
+    "field_viu_search_keywords": "piano"
+  },
+  {
+    "title": "Bachelor of Tourism Management",
+    "nid": "161",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Co-op",
+    "program_area": "1",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Welding",
+    "nid": "252",
+    "credential": "Certificate",
+    "length_days": "210",
+    "location_offered": "Cowichan,Nanaimo",
+    "options": "Apprenticeship",
+    "program_area": "4",
+    "field_viu_search_keywords": "apprenticeship, plumbing, red seal, welder"
+  },
+  {
+    "title": "Professional Baking and Pastry Arts",
+    "nid": "260",
+    "credential": "Certificate",
+    "length_days": "365",
+    "location_offered": "Nanaimo",
+    "options": "Apprenticeship",
+    "program_area": "4",
+    "field_viu_search_keywords": "baker, apprenticeship, red seal"
+  },
+  {
+    "title": "Power Engineering/Process Operator - 4th Class",
+    "nid": "240",
+    "credential": "Certificate",
+    "length_days": "224",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "4",
+    "field_viu_search_keywords": "mechanical, mechanics"
+  },
+  {
+    "title": "Marine and Motorcycle Mechanical Technician",
+    "nid": "230",
+    "credential": "Certificate",
+    "length_days": "270",
+    "location_offered": "Nanaimo",
+    "options": "Apprenticeship",
+    "program_area": "4",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Horticultural Technician Foundation",
+    "nid": "210",
+    "credential": "Certificate",
+    "length_days": "270",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "4",
+    "field_viu_search_keywords": "agriculture, agricultural"
+  },
+  {
+    "title": "Heavy Mechanical Trades Foundation",
+    "nid": "216",
+    "credential": "Certificate",
+    "length_days": "300",
+    "location_offered": "Nanaimo",
+    "options": "Apprenticeship",
+    "program_area": "4",
+    "field_viu_search_keywords": "heavy duty, apprenticeship, red seal"
+  },
+  {
+    "title": "Heavy Equipment Operator",
+    "nid": "204",
+    "credential": "Certificate",
+    "length_days": "119",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "4",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Refrigeration Air-Conditioning Mechanic",
+    "nid": "253",
+    "credential": "Certificate",
+    "length_days": "238",
+    "location_offered": "Cowichan",
+    "options": "Apprenticeship",
+    "program_area": "4",
+    "field_viu_search_keywords": "apprenticeship, plumbing, red seal"
+  },
+  {
+    "title": "Hairstylist Foundation",
+    "nid": "205",
+    "credential": "Certificate",
+    "length_days": "330",
+    "location_offered": "Cowichan,Nanaimo,Powell River,Saanich",
+    "options": "",
+    "program_area": "4",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "First Nations Housing Manager",
+    "nid": "194",
+    "credential": "Certificate",
+    "length_days": "84",
+    "location_offered": "Cowichan,Online",
+    "options": "",
+    "program_area": "4",
+    "field_viu_search_keywords": "Aboriginal, Continuing Education, Continuing Studies, indigenous"
+  },
+  {
+    "title": "Electrician",
+    "nid": "183",
+    "credential": "Certificate",
+    "length_days": "168",
+    "location_offered": "Nanaimo",
+    "options": "Apprenticeship",
+    "program_area": "4",
+    "field_viu_search_keywords": "electrician, plumbing, red seal, apprenticeship"
+  },
+  {
+    "title": "Culinary Arts",
+    "nid": "179",
+    "credential": "Certificate",
+    "length_days": "365",
+    "location_offered": "Cowichan,Nanaimo,Powell River",
+    "options": "Apprenticeship,Co-op",
+    "program_area": "4",
+    "field_viu_search_keywords": "apprenticeship, cook, food, professional cook, red seal"
+  },
+  {
+    "title": "Carpentry",
+    "nid": "175",
+    "credential": "Certificate",
+    "length_days": "248",
+    "location_offered": "Cowichan,Nanaimo,Powell River",
+    "options": "Apprenticeship",
+    "program_area": "4",
+    "field_viu_search_keywords": "apprenticeship, carpenter, construction, red seal"
+  },
+  {
+    "title": "Automotive Service Technician",
+    "nid": "147",
+    "credential": "Certificate",
+    "length_days": "300",
+    "location_offered": "Nanaimo,Powell River",
+    "options": "Apprenticeship",
+    "program_area": "4",
+    "field_viu_search_keywords": "apprenticeship, car, glass technician, mechanic, mechanics, red seal"
+  },
+  {
+    "title": "Aboriginal Construction",
+    "nid": "153",
+    "credential": "Certificate",
+    "length_days": "300",
+    "location_offered": "Nanaimo",
+    "options": "Apprenticeship",
+    "program_area": "4",
+    "field_viu_search_keywords": "First Nations, indigenous"
+  },
+  {
+    "title": "Engineering Transfer Certificate",
+    "nid": "202",
+    "credential": "Transfer Program",
+    "length_days": "240",
+    "location_offered": "Nanaimo",
+    "options": "Transfer Program",
+    "program_area": "9",
+    "field_viu_search_keywords": "architecture, aerospace, aviation, civil engineering, mechanical, mechanics"
+  },
+  {
+    "title": "Resource Management Officer Technology",
+    "nid": "243",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "9",
+    "field_viu_search_keywords": "conservationist, environmental"
+  },
+  {
+    "title": "Information Technology and Applied Systems – Systems Administration and Networking Diploma",
+    "nid": "228",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "4",
+    "field_viu_search_keywords": "itas"
+  },
+  {
+    "title": "Forest Resources Technology",
+    "nid": "215",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "9",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Fisheries and Aquaculture Technology",
+    "nid": "203",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "9",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Computer Science",
+    "nid": "168",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "9",
+    "field_viu_search_keywords": "analytics, artificial intelligence, computer engineering, computers, cyber, cybersecurity, data, information, information technology, security, software engineering"
+  },
+  {
+    "title": "Advanced Diploma in Geographical Information Systems (GIS) Applications",
+    "nid": "142",
+    "credential": "Advanced Diploma",
+    "length_days": "248",
+    "location_offered": "Nanaimo,Online",
+    "options": "",
+    "program_area": "3",
+    "field_viu_search_keywords": "Continuing Education, Continuing Studies, data, geomatics, graduate, information management, post graduate, remote sensing"
+  },
+  {
+    "title": "Physics (BSc)",
+    "nid": "219",
+    "credential": "Transfer Program",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Transfer Program",
+    "program_area": "9",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Mathematics (BSc)",
+    "nid": "225",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major,Minor",
+    "program_area": "9",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Geography (BSc)",
+    "nid": "209",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Minor",
+    "program_area": "9",
+    "field_viu_search_keywords": "civil engineering, urban planning"
+  },
+  {
+    "title": "Earth Science (BSc)",
+    "nid": "182",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Minor",
+    "program_area": "9",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Chemistry (BSc)",
+    "nid": "162",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major,Minor",
+    "program_area": "9",
+    "field_viu_search_keywords": "bachelor of medicine, biochemistry, chemical engineering, dentistry, environmental, food sciences, medical, medicine, nutritionist, pharmacist, pharmacology, pharmacy, pharmaceuticals"
+  },
+  {
+    "title": "Psychology (BSc)",
+    "nid": "247",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major,Minor",
+    "program_area": "9",
+    "field_viu_search_keywords": "counseling, counselling, psycology"
+  },
+  {
+    "title": "Geoscience (BSc)",
+    "nid": "211",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major",
+    "program_area": "9",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Computer Science (BSc)",
+    "nid": "166",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Co-op,Honours,Major,Minor",
+    "program_area": "9",
+    "field_viu_search_keywords": "analytics, artificial intelligence, computer engineering, computers, cyber, cybersecurity, data, information, information technology, security, software engineering"
+  },
+  {
+    "title": "Biology (BSc)",
+    "nid": "165",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Honours,Major,Minor",
+    "program_area": "9",
+    "field_viu_search_keywords": "bachelor of medicine, biotechnology, biotechnologist, botany, dentistry, ecology, environmental, food sciences, Marine, marine biologist, marine biology, medical, medicine, nutritionist, pharmacist, pharmacology, pharmacy, pharmaceuticals, phycology, vet, veterinary, veterinarian, vetinary, vetinarian, zoology"
+  },
+  {
+    "title": "Bachelor of Science (BSc), Honours, Majors, Minors, and Transfer",
+    "nid": "164",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "9",
+    "field_viu_search_keywords": "environmental, medical, medicine, pharmaceuticals, pharmacology, pharmacy, science, bach, bachelor of science, bachelor"
+  },
+  {
+    "title": "Bachelor of Science in Fisheries and Aquaculture",
+    "nid": "163",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Co-op",
+    "program_area": "9",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Bachelor of Natural Resource Protection",
+    "nid": "178",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "9",
+    "field_viu_search_keywords": "environmental"
+  },
+  {
+    "title": "Media Studies (BA)",
+    "nid": "236",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Mathematics (BA)",
+    "nid": "223",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major,Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Computer Science (BA)",
+    "nid": "173",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": "analytics, artificial intelligence, computers, cyber, cybersecurity, data, information, information technology, security, software engineering"
+  },
+  {
+    "title": "Chemistry (BA)",
+    "nid": "171",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": "biochemistry, environmental, food sciences, medical, medicine, nutritionist, pharmacist, pharmacology, pharmacy, pharmaceuticals"
+  },
+  {
+    "title": "Business (BA)",
+    "nid": "176",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Cowichan,Nanaimo",
+    "options": "Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": "analytics, buisness, commerce"
+  },
+  {
+    "title": "Biology (BA)",
+    "nid": "160",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": "botany, ecology, environmental, food sciences, Marine, marine biologist, environment, marine biology, nutritionist, phycology, vet, veterinary, veterinarian, vetinary, vetinarian, zoology"
+  },
+  {
+    "title": "Studies in Women and Gender (BA)",
+    "nid": "246",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major,Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Sociology (BA)",
+    "nid": "250",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Honours,Major,Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Psychology (BA)",
+    "nid": "258",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Honours,Major,Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": "counseling, counselling, psycology"
+  },
+  {
+    "title": "Political Studies (BA)",
+    "nid": "229",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major,Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": "international relations, political science"
+  },
+  {
+    "title": "Kinesiology (BA)",
+    "nid": "233",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Minor",
+    "program_area": "11",
+    "field_viu_search_keywords": "athletics, biomechanics, kinesiology, medical terminology, nutrition, occupational therapy, personal trainer, physiotherapy"
+  },
+  {
+    "title": "Philosophy (BA)",
+    "nid": "226",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Honours,Major,Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Liberal Studies (BA)",
+    "nid": "220",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major,Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "History (BA)",
+    "nid": "213",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Honours,Major,Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Global Studies (BA)",
+    "nid": "199",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major,Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": "climate change, international relations, sustainable, sustainability"
+  },
+  {
+    "title": "Geography (BA)",
+    "nid": "214",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Honours,Major,Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": "urban planning"
+  },
+  {
+    "title": "English (BA)",
+    "nid": "187",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Honours,Major,Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": "english, en"
+  },
+  {
+    "title": "Economics (BA)",
+    "nid": "186",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major,Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Digital Media Studies (BA)",
+    "nid": "188",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Criminology (BA)",
+    "nid": "185",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major,Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": "criminal justice, law enforcement, police"
+  },
+  {
+    "title": "Creative Writing and Journalism (BA)",
+    "nid": "195",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major,Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": "communications"
+  },
+  {
+    "title": "Anthropology (BA)",
+    "nid": "140",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Honours,Major,Minor",
+    "program_area": "3",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Social Services",
+    "nid": "254",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "13",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Early Childhood Education and Care",
+    "nid": "181",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Cowichan,Nanaimo,Powell River",
+    "options": "",
+    "program_area": "13",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Child and Youth Care Diploma",
+    "nid": "172",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "13",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Bachelor of Social Work",
+    "nid": "159",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Online",
+    "options": "",
+    "program_area": "13",
+    "field_viu_search_keywords": "counseling, counselling"
+  },
+  {
+    "title": "Child and Youth Care (BA)",
+    "nid": "150",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "13",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Health Care Assistant",
+    "nid": "217",
+    "credential": "Certificate",
+    "length_days": "168",
+    "location_offered": "Cowichan,Nanaimo,Powell River",
+    "options": "",
+    "program_area": "10",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Dental Assistant",
+    "nid": "190",
+    "credential": "Certificate",
+    "length_days": "300",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "10",
+    "field_viu_search_keywords": "dentistry"
+  },
+  {
+    "title": "Community Mental Health Worker",
+    "nid": "167",
+    "credential": "Certificate",
+    "length_days": "182",
+    "location_offered": "Online",
+    "options": "",
+    "program_area": "10",
+    "field_viu_search_keywords": "Continuing Education, Continuing Studies, public health"
+  },
+  {
+    "title": "Activity Assistant",
+    "nid": "146",
+    "credential": "Certificate",
+    "length_days": "120",
+    "location_offered": "Nanaimo,Online",
+    "options": "",
+    "program_area": "10",
+    "field_viu_search_keywords": "Continuing Education, Continuing Studies"
+  },
+  {
+    "title": "Practical Nursing",
+    "nid": "259",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Cowichan,Nanaimo",
+    "options": "",
+    "program_area": "10",
+    "field_viu_search_keywords": "lpn, public health"
+  },
+  {
+    "title": "Aboriginal University Bridging",
+    "nid": "158",
+    "credential": "Certificate",
+    "length_days": "365",
+    "location_offered": "Cowichan,Nanaimo",
+    "options": "",
+    "program_area": "7",
+    "field_viu_search_keywords": "First Nations, indigenous"
+  },
+  {
+    "title": "Child and Youth Care First Nations Diploma",
+    "nid": "174",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "",
+    "options": "",
+    "program_area": "5",
+    "field_viu_search_keywords": "indigenous, Aboriginal"
+  },
+  {
+    "title": "Arts One - First Nations",
+    "nid": "155",
+    "credential": "Certificate",
+    "length_days": "365",
+    "location_offered": "Cowichan,Nanaimo",
+    "options": "",
+    "program_area": "5",
+    "field_viu_search_keywords": "Aboriginal, indigenous"
+  },
+  {
+    "title": "English as a Second Language (ESL)",
+    "nid": "192",
+    "credential": "Non-Credit",
+    "length_days": null,
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "12",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Teacher Leadership Graduate Diploma",
+    "nid": "241",
+    "credential": "Graduate Diploma",
+    "length_days": "365",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "11",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Online Learning and Teaching Graduate Diploma",
+    "nid": "234",
+    "credential": "Graduate Diploma",
+    "length_days": "730",
+    "location_offered": "Online",
+    "options": "",
+    "program_area": "11",
+    "field_viu_search_keywords": "distance"
+  },
+  {
+    "title": "Master of Education in Special Education",
+    "nid": "222",
+    "credential": "Master Degree",
+    "length_days": "730",
+    "location_offered": "Nanaimo,Online",
+    "options": "",
+    "program_area": "11",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Master of Education in Educational Leadership",
+    "nid": "238",
+    "credential": "Master Degree",
+    "length_days": null,
+    "location_offered": "Cowichan,Nanaimo,Online",
+    "options": "",
+    "program_area": "11",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Bachelor of Education - Post Baccalaureate",
+    "nid": "151",
+    "credential": "Bachelor Degree",
+    "length_days": "540",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "11",
+    "field_viu_search_keywords": "education, teacher"
+  },
+  {
+    "title": "Bachelor of Education",
+    "nid": "157",
+    "credential": "Bachelor Degree",
+    "length_days": "1825",
+    "location_offered": "Cowichan,Nanaimo",
+    "options": "",
+    "program_area": "11",
+    "field_viu_search_keywords": "teacher, education"
+  },
+  {
+    "title": "Wine Business",
+    "nid": "255",
+    "credential": "Certificate",
+    "length_days": "365",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "1",
+    "field_viu_search_keywords": "agriculture, agricultural"
+  },
+  {
+    "title": "Management Skills for Supervisors",
+    "nid": "227",
+    "credential": "Certificate",
+    "length_days": "12",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "2",
+    "field_viu_search_keywords": "Continuing Education, Continuing Studies"
+  },
+  {
+    "title": "Event Management Certificate",
+    "nid": "193",
+    "credential": "Certificate",
+    "length_days": "365",
+    "location_offered": "Online",
+    "options": "",
+    "program_area": "1",
+    "field_viu_search_keywords": "Continuing Education, Continuing Studies"
+  },
+  {
+    "title": "Certificate in Business Management",
+    "nid": "169",
+    "credential": "Certificate",
+    "length_days": null,
+    "location_offered": "Cowichan,Nanaimo,Powell River",
+    "options": "",
+    "program_area": "2",
+    "field_viu_search_keywords": "analytics, commerce"
+  },
+  {
+    "title": "Office Administration",
+    "nid": "152",
+    "credential": "Certificate",
+    "length_days": "300",
+    "location_offered": "Cowichan,Nanaimo",
+    "options": "",
+    "program_area": "4",
+    "field_viu_search_keywords": "accounting, book keeping, bookkeeping, financial assistant, legal assistant, office admin, office training, payroll assistant, receptionist, secretary, secretarial, office administration, paralegal"
+  },
+  {
+    "title": "Business Fundamentals for Indigenous Communities",
+    "nid": "177",
+    "credential": "Certificate",
+    "length_days": null,
+    "location_offered": "",
+    "options": "",
+    "program_area": "2",
+    "field_viu_search_keywords": "analytics, buisness, commerce, First Nations, indigenous"
+  },
+  {
+    "title": "Tourism Studies",
+    "nid": "261",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "Co-op",
+    "program_area": "1",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Recreation and Sport Management",
+    "nid": "248",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "Co-op",
+    "program_area": "1",
+    "field_viu_search_keywords": "athletics"
+  },
+  {
+    "title": "Hospitality Management Diploma",
+    "nid": "237",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "Co-op",
+    "program_area": "1",
+    "field_viu_search_keywords": "Hotel Management"
+  },
+  {
+    "title": "Business Administration",
+    "nid": "196",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "2",
+    "field_viu_search_keywords": "analytics, buisness, commerce, supply chain"
+  },
+  {
+    "title": "Bachelor of Hospitality Management",
+    "nid": "143",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Co-op",
+    "program_area": "1",
+    "field_viu_search_keywords": "Hotel Management"
+  },
+  {
+    "title": "Adult Basic Education",
+    "nid": "208",
+    "credential": "Certificate",
+    "length_days": null,
+    "location_offered": "Cowichan,Nanaimo,Parksville Qualicum",
+    "options": "",
+    "program_area": "7",
+    "field_viu_search_keywords": "ABE, Upgrading, Adult Graduation Diploma, Highschool courses, high school courses"
+  },
+  {
+    "title": "Post-Degree Diploma in Business Studies",
+    "nid": "245",
+    "credential": "Post-Degree Diploma",
+    "length_days": "365",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "2",
+    "field_viu_search_keywords": "analytics, graduate, post graduate"
+  },
+  {
+    "title": "Master of Business Administration (MBA)",
+    "nid": "235",
+    "credential": "Master Degree",
+    "length_days": null,
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "2",
+    "field_viu_search_keywords": "analytics, buisness, commerce, masters in finance, supply chain"
+  },
+  {
+    "title": "Master of Arts in Sustainable Leisure Management",
+    "nid": "231",
+    "credential": "Master Degree",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "1",
+    "field_viu_search_keywords": "travel"
+  },
+  {
+    "title": "Visual Art",
+    "nid": "256",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "6",
+    "field_viu_search_keywords": "animator, animation"
+  },
+  {
+    "title": "Bachelor of Music in Jazz Studies",
+    "nid": "139",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "6",
+    "field_viu_search_keywords": "piano"
+  },
+  {
+    "title": "Bachelor of Interior Design",
+    "nid": "149",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "6",
+    "field_viu_search_keywords": "architecture"
+  },
+  {
+    "title": "Visual Art (BA)",
+    "nid": "251",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "Major,Minor",
+    "program_area": "6",
+    "field_viu_search_keywords": "animator, animation"
+  },
+  {
+    "title": "Bachelor of Design in Graphic Design",
+    "nid": "212",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "6",
+    "field_viu_search_keywords": "animator, animation, design, graphic design, photography"
+  },
+  {
+    "title": "Art and Design - Arts General Admission Requirements",
+    "nid": "154",
+    "credential": "",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "6",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Foundations for Success",
+    "nid": "207",
+    "credential": "Certificate",
+    "length_days": "105",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "7",
+    "field_viu_search_keywords": "presentation skills training"
+  },
+  {
+    "title": "Workplace Essential Skills and Training",
+    "nid": "242",
+    "credential": "Certificate",
+    "length_days": "730",
+    "location_offered": "Cowichan,Nanaimo",
+    "options": "",
+    "program_area": "7",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Employability Skills Program",
+    "nid": "180",
+    "credential": "Non-Credit",
+    "length_days": null,
+    "location_offered": "",
+    "options": "",
+    "program_area": "7",
+    "field_viu_search_keywords": null
+  },
+  {
+    "title": "Dental Hygiene",
+    "nid": "198",
+    "credential": "Diploma",
+    "length_days": "730",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "10",
+    "field_viu_search_keywords": "dentistry"
+  },
+  {
+    "title": "Bachelor of Science in Nursing",
+    "nid": "170",
+    "credential": "Bachelor Degree",
+    "length_days": "1460",
+    "location_offered": "Nanaimo",
+    "options": "",
+    "program_area": "10",
+    "field_viu_search_keywords": "public health"
+  }
+]

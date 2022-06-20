@@ -1,0 +1,1814 @@
+[
+  {
+    "title": "Esthetics and Spa Therapy",
+    "nid": 9185,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": "Esthetics and Spa Therapy, Continuing Education, Continuing Studies",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Computer Science Honours",
+    "nid": 9143,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "analytics, artificial intelligence, data, information technology, software engineering",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Psychology Honours (BSc)",
+    "nid": 9115,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": "counseling, counselling, psycology",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Baking and Pastry Arts Management",
+    "nid": 9005,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": "baker",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Aquaculture (BSc)",
+    "nid": 9004,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Aquaculture (BA)",
+    "nid": 9000,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Information Technology and Applied Systems – Web and Mobile Development Diploma",
+    "nid": 7222,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": "itas, software engineering",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Professional Indigenous Lands Management Certificate",
+    "nid": 7138,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "First Nations, indigenous",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Bachelor of Kinesiology",
+    "nid": 7125,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 11,
+      "title": "Education"
+    },
+    "viu_search_keywords": "athletics, biomechanics, kinesiology, medical terminology, occupational therapy, personal trainer, physiotherapy",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Geography Honours (BA)",
+    "nid": 7113,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "urban planning",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Integrated Engineering Technologist Diploma",
+    "nid": 7095,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": "architecture, aerospace, aviation, civil engineering, civil technologist, engineering, engineering diploma, engineering technologist, mechanical, mechanics, tech sector",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Anthropology Honours (BA)",
+    "nid": 6530,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Indigenous/Xwulmuxw Studies (BA)",
+    "nid": 4980,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "Aboriginal, First Nations, indigenous",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Fundamentals of Forest Harvesting Practices ",
+    "nid": 4194,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": "forestry, forester",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Cooperative Entrepreneur Training Certificate",
+    "nid": 4138,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 7,
+      "title": "Academic and Career Preparation and High School Equivalency (ABE)"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Certificate",
+    "nid": 4133,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 0,
+      "title": "Unknown"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Diploma",
+    "nid": 4132,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 0,
+      "title": "Unknown"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Bachelor Degree",
+    "nid": 4131,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 0,
+      "title": "Unknown"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Master Degree",
+    "nid": 4126,
+    "duration": "Master's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 0,
+      "title": "Unknown"
+    },
+    "viu_search_keywords": "graduate, Graduate Programs, MSc",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Associate Degree",
+    "nid": 4125,
+    "duration": "Associate's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 8,
+      "title": "Exploratory University Studies (EXPO)"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Biology Honours",
+    "nid": 4123,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": "biotechnology, biotechnologist, botany, dentistry, ecology, environmental, food sciences, Marine, marine biologist, marine biology, nutritionist, phycology, vet, veterinary, veterinarian, vetinary, vetinarian, zoology",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Bachelor of Business Administration (BBA), Majors and Minors",
+    "nid": 3527,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 2,
+      "title": "Business and Management"
+    },
+    "viu_search_keywords": "analytics, buisness, commerce, supply chain",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Management (BBA)",
+    "nid": 3483,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 2,
+      "title": "Business and Management"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Marketing (BBA)",
+    "nid": 3482,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 2,
+      "title": "Business and Management"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "International Business (BBA)",
+    "nid": 3481,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 2,
+      "title": "Business and Management"
+    },
+    "viu_search_keywords": "analytics, buisness, commerce, international relations",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Human Resources Management (BBA)",
+    "nid": 3480,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 2,
+      "title": "Business and Management"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Financial Services (BBA)",
+    "nid": 3479,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 2,
+      "title": "Business and Management"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Economics (BBA)",
+    "nid": 3478,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 2,
+      "title": "Business and Management"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Accounting (BBA)",
+    "nid": 3477,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 2,
+      "title": "Business and Management"
+    },
+    "viu_search_keywords": "book keeping, bookkeeping",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Legal Studies",
+    "nid": 3442,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Languages and Culture (Romance Languages) (BSc)",
+    "nid": 3356,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Sociology Honours (BA)",
+    "nid": 3326,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Psychology Honours (BA)",
+    "nid": 3322,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "counseling, counselling, psycology",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "History Honours (BA)",
+    "nid": 3318,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Philosophy Honours (BA)",
+    "nid": 3270,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "English Honours (BA)",
+    "nid": 1341,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Education Assistant and Community Support",
+    "nid": 1338,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 13,
+      "title": "Human Services"
+    },
+    "viu_search_keywords": "Educational Assistant",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Certificate in Adventure Tourism and Recreation ",
+    "nid": 1301,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 1,
+      "title": "Tourism, Recreation and Hospitality"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Addiction Studies",
+    "nid": 1294,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "addicts",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Languages and Culture (Romance Languages) (BA)",
+    "nid": 319,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Physical Education",
+    "nid": 313,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 11,
+      "title": "Education"
+    },
+    "viu_search_keywords": "kinesiology, physiotherapy, occupational therapy, biomechanics, personal trainer",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Animal Care Aide",
+    "nid": 311,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 299,
+      "title": "Professional Development and Training"
+    },
+    "viu_search_keywords": "Continuing Education, Continuing Studies, vetinary, veterinarian, vet",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Medical Device Reprocessing Technician",
+    "nid": 305,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 299,
+      "title": "Professional Development and Training"
+    },
+    "viu_search_keywords": "Continuing Education, Continuing Studies",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Medical Office Assistant",
+    "nid": 306,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 299,
+      "title": "Professional Development and Training"
+    },
+    "viu_search_keywords": "book keeping, bookkeeping, Continuing Education, Continuing Studies",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Hospital Unit Coordinator",
+    "nid": 307,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 299,
+      "title": "Professional Development and Training"
+    },
+    "viu_search_keywords": "Continuing Education, Continuing Studies",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "British Columbia First Nations Building Inspector",
+    "nid": 301,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 299,
+      "title": "Professional Development and Training"
+    },
+    "viu_search_keywords": "Aboriginal, Continuing Education, Continuing Studies, indigenous",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Managing Conflict In The Workplace",
+    "nid": 300,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 299,
+      "title": "Professional Development and Training"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Proficiency in Language and Culture",
+    "nid": 295,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Master of Community Planning",
+    "nid": 294,
+    "duration": "Master's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "architecture, civil engineering, urban planning",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Master of Geographic Information Systems (GIS) Applications",
+    "nid": 293,
+    "duration": "Master's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "data, geomatics, information management, remote sensing",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Earth Science (BA)",
+    "nid": 290,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Bachelor of Arts (BA), Honours, Majors, and Minors",
+    "nid": 289,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "ba, bachelor of arts",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Culinary Management",
+    "nid": 287,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": "cook, food",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Digital Media (BA)",
+    "nid": 189,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "photography, videography",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Criminology",
+    "nid": 197,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "criminal justice, law enforcement, police",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Theatre",
+    "nid": 249,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 6,
+      "title": "Art, Design and Performing Arts"
+    },
+    "viu_search_keywords": "actor, actress, acting",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Jazz Studies",
+    "nid": 221,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 6,
+      "title": "Art, Design and Performing Arts"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Bachelor of Tourism Management",
+    "nid": 161,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 1,
+      "title": "Tourism, Recreation and Hospitality"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Welding",
+    "nid": 252,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": "apprenticeship, plumbing, red seal, welder",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Professional Baking and Pastry Arts",
+    "nid": 260,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": "baker, apprenticeship, red seal",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Power Engineering/Process Operator - 4th Class",
+    "nid": 240,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": "mechanical, mechanics",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Marine and Motorcycle Mechanical Technician",
+    "nid": 230,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Horticultural Technician Foundation",
+    "nid": 210,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": "agriculture, agricultural",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Heavy Mechanical Trades Foundation",
+    "nid": 216,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": "heavy duty, apprenticeship, red seal",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Heavy Equipment Operator",
+    "nid": 204,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Refrigeration Air-Conditioning Mechanic",
+    "nid": 253,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": "apprenticeship, plumbing, red seal",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Hairstylist Foundation",
+    "nid": 205,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "First Nations Housing Manager",
+    "nid": 194,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": "Aboriginal, Continuing Education, Continuing Studies, indigenous",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Electrician",
+    "nid": 183,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": "electrician, plumbing, red seal, apprenticeship",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Culinary Arts",
+    "nid": 179,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": "apprenticeship, cook, food, professional cook, red seal",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Carpentry",
+    "nid": 175,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": "apprenticeship, carpenter, construction, red seal",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Automotive Service Technician",
+    "nid": 147,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": "apprenticeship, car, glass technician, mechanic, mechanics, red seal",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Aboriginal Construction",
+    "nid": 153,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": "First Nations, indigenous",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Resource Management Officer Technology",
+    "nid": 243,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": "conservationist, environmental",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Information Technology and Applied Systems – Systems Administration and Networking Diploma",
+    "nid": 228,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": "itas",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Forest Resources Technology",
+    "nid": 215,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Fisheries and Aquaculture Technology",
+    "nid": 203,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Computer Science",
+    "nid": 168,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": "analytics, artificial intelligence, computer engineering, computers, cyber, cybersecurity, data, information, information technology, security, software engineering",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Mathematics (BSc)",
+    "nid": 225,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Geography (BSc)",
+    "nid": 209,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": "civil engineering, urban planning",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Earth Science (BSc)",
+    "nid": 182,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Chemistry (BSc)",
+    "nid": 162,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": "bachelor of medicine, biochemistry, chemical engineering, dentistry, environmental, food sciences, medical, medicine, nutritionist, pharmacist, pharmacology, pharmacy, pharmaceuticals",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Psychology (BSc)",
+    "nid": 247,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": "counseling, counselling, psycology",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Geoscience (BSc)",
+    "nid": 211,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Computer Science (BSc)",
+    "nid": 166,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": "analytics, artificial intelligence, computer engineering, computers, cyber, cybersecurity, data, information, information technology, security, software engineering",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Biology (BSc)",
+    "nid": 165,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": "bachelor of medicine, biotechnology, biotechnologist, botany, dentistry, ecology, environmental, food sciences, Marine, marine biologist, marine biology, medical, medicine, nutritionist, pharmacist, pharmacology, pharmacy, pharmaceuticals, phycology, vet, veterinary, veterinarian, vetinary, vetinarian, zoology",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Bachelor of Science (BSc), Honours, Majors, Minors, and Transfer",
+    "nid": 164,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": "environmental, medical, medicine, pharmaceuticals, pharmacology, pharmacy, science, bach, bachelor of science, bachelor",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Bachelor of Science in Fisheries and Aquaculture",
+    "nid": 163,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Bachelor of Natural Resource Protection",
+    "nid": 178,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 9,
+      "title": "Science and Technology"
+    },
+    "viu_search_keywords": "environmental",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Media Studies (BA)",
+    "nid": 236,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Mathematics (BA)",
+    "nid": 223,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Computer Science (BA)",
+    "nid": 173,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "analytics, artificial intelligence, computers, cyber, cybersecurity, data, information, information technology, security, software engineering",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Chemistry (BA)",
+    "nid": 171,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "biochemistry, environmental, food sciences, medical, medicine, nutritionist, pharmacist, pharmacology, pharmacy, pharmaceuticals",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Business (BA)",
+    "nid": 176,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "analytics, buisness, commerce",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Biology (BA)",
+    "nid": 160,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "botany, ecology, environmental, food sciences, Marine, marine biologist, environment, marine biology, nutritionist, phycology, vet, veterinary, veterinarian, vetinary, vetinarian, zoology",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Studies in Women and Gender (BA)",
+    "nid": 246,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Sociology (BA)",
+    "nid": 250,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Psychology (BA)",
+    "nid": 258,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "counseling, counselling, psycology",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Political Studies (BA)",
+    "nid": 229,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "international relations, political science",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Kinesiology (BA)",
+    "nid": 233,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 11,
+      "title": "Education"
+    },
+    "viu_search_keywords": "athletics, biomechanics, kinesiology, medical terminology, nutrition, occupational therapy, personal trainer, physiotherapy",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Philosophy (BA)",
+    "nid": 226,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Liberal Studies (BA)",
+    "nid": 220,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "History (BA)",
+    "nid": 213,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Global Studies (BA)",
+    "nid": 199,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "climate change, international relations, sustainable, sustainability",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Geography (BA)",
+    "nid": 214,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "urban planning",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "English (BA)",
+    "nid": 187,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "english, en",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Economics (BA)",
+    "nid": 186,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Digital Media Studies (BA)",
+    "nid": 188,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Criminology (BA)",
+    "nid": 185,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "criminal justice, law enforcement, police",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Creative Writing and Journalism (BA)",
+    "nid": 195,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "communications",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Anthropology (BA)",
+    "nid": 140,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Social Services",
+    "nid": 254,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 13,
+      "title": "Human Services"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Early Childhood Education and Care",
+    "nid": 181,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 13,
+      "title": "Human Services"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Child and Youth Care Diploma",
+    "nid": 172,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 13,
+      "title": "Human Services"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Bachelor of Social Work",
+    "nid": 159,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 13,
+      "title": "Human Services"
+    },
+    "viu_search_keywords": "counseling, counselling",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Child and Youth Care (BA)",
+    "nid": 150,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 13,
+      "title": "Human Services"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Health Care Assistant",
+    "nid": 217,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 10,
+      "title": "Health"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Dental Assistant",
+    "nid": 190,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 10,
+      "title": "Health"
+    },
+    "viu_search_keywords": "dentistry",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Community Mental Health Worker",
+    "nid": 167,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 10,
+      "title": "Health"
+    },
+    "viu_search_keywords": "Continuing Education, Continuing Studies, public health",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Activity Assistant",
+    "nid": 146,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 10,
+      "title": "Health"
+    },
+    "viu_search_keywords": "Continuing Education, Continuing Studies",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Practical Nursing",
+    "nid": 259,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 10,
+      "title": "Health"
+    },
+    "viu_search_keywords": "lpn, public health",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Aboriginal University Bridging",
+    "nid": 158,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 7,
+      "title": "Academic and Career Preparation and High School Equivalency (ABE)"
+    },
+    "viu_search_keywords": "First Nations, indigenous",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Child and Youth Care First Nations Diploma",
+    "nid": 174,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 5,
+      "title": "Indigenous"
+    },
+    "viu_search_keywords": "indigenous, Aboriginal",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Arts One - First Nations",
+    "nid": 155,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 5,
+      "title": "Indigenous"
+    },
+    "viu_search_keywords": "Aboriginal, indigenous",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Master of Education in Special Education",
+    "nid": 222,
+    "duration": "Master's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 11,
+      "title": "Education"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Master of Education in Educational Leadership",
+    "nid": 238,
+    "duration": "Master's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 11,
+      "title": "Education"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Bachelor of Education - Post Baccalaureate",
+    "nid": 151,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 11,
+      "title": "Education"
+    },
+    "viu_search_keywords": "education, teacher",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Bachelor of Education",
+    "nid": 157,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 11,
+      "title": "Education"
+    },
+    "viu_search_keywords": "teacher, education",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Wine Business",
+    "nid": 255,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 1,
+      "title": "Tourism, Recreation and Hospitality"
+    },
+    "viu_search_keywords": "agriculture, agricultural",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Management Skills for Supervisors",
+    "nid": 227,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 2,
+      "title": "Business and Management"
+    },
+    "viu_search_keywords": "Continuing Education, Continuing Studies",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Event Management Certificate",
+    "nid": 193,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 1,
+      "title": "Tourism, Recreation and Hospitality"
+    },
+    "viu_search_keywords": "Continuing Education, Continuing Studies",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Certificate in Business Management",
+    "nid": 169,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 2,
+      "title": "Business and Management"
+    },
+    "viu_search_keywords": "analytics, commerce",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Office Administration",
+    "nid": 152,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 4,
+      "title": "Trades and Applied Technology"
+    },
+    "viu_search_keywords": "accounting, book keeping, bookkeeping, financial assistant, legal assistant, office admin, office training, payroll assistant, receptionist, secretary, secretarial, office administration, paralegal",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Business Fundamentals for Indigenous Communities",
+    "nid": 177,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 2,
+      "title": "Business and Management"
+    },
+    "viu_search_keywords": "analytics, buisness, commerce, First Nations, indigenous",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Tourism Studies",
+    "nid": 261,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 1,
+      "title": "Tourism, Recreation and Hospitality"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Recreation and Sport Management",
+    "nid": 248,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 1,
+      "title": "Tourism, Recreation and Hospitality"
+    },
+    "viu_search_keywords": "athletics",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Hospitality Management Diploma",
+    "nid": 237,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 1,
+      "title": "Tourism, Recreation and Hospitality"
+    },
+    "viu_search_keywords": "Hotel Management",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Business Administration",
+    "nid": 196,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 2,
+      "title": "Business and Management"
+    },
+    "viu_search_keywords": "analytics, buisness, commerce, supply chain",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Bachelor of Hospitality Management",
+    "nid": 143,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 1,
+      "title": "Tourism, Recreation and Hospitality"
+    },
+    "viu_search_keywords": "Hotel Management",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Adult Basic Education",
+    "nid": 208,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 7,
+      "title": "Academic and Career Preparation and High School Equivalency (ABE)"
+    },
+    "viu_search_keywords": "ABE, Upgrading, Adult Graduation Diploma, Highschool courses, high school courses",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Master of Business Administration (MBA)",
+    "nid": 235,
+    "duration": "Master's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 2,
+      "title": "Business and Management"
+    },
+    "viu_search_keywords": "analytics, buisness, commerce, masters in finance, supply chain",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Master of Arts in Sustainable Leisure Management",
+    "nid": 231,
+    "duration": "Master's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 1,
+      "title": "Tourism, Recreation and Hospitality"
+    },
+    "viu_search_keywords": "travel",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Visual Art",
+    "nid": 256,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 6,
+      "title": "Art, Design and Performing Arts"
+    },
+    "viu_search_keywords": "animator, animation",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Bachelor of Music in Jazz Studies",
+    "nid": 139,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 6,
+      "title": "Art, Design and Performing Arts"
+    },
+    "viu_search_keywords": "piano",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Bachelor of Interior Design",
+    "nid": 149,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 6,
+      "title": "Art, Design and Performing Arts"
+    },
+    "viu_search_keywords": "architecture",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Visual Art (BA)",
+    "nid": 251,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 6,
+      "title": "Art, Design and Performing Arts"
+    },
+    "viu_search_keywords": "animator, animation",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Bachelor of Design in Graphic Design",
+    "nid": 212,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 6,
+      "title": "Art, Design and Performing Arts"
+    },
+    "viu_search_keywords": "animator, animation, design, graphic design, photography",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Foundations for Success",
+    "nid": 207,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 7,
+      "title": "Academic and Career Preparation and High School Equivalency (ABE)"
+    },
+    "viu_search_keywords": "presentation skills training",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Workplace Essential Skills and Training",
+    "nid": 242,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 7,
+      "title": "Academic and Career Preparation and High School Equivalency (ABE)"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Dental Hygiene",
+    "nid": 198,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 10,
+      "title": "Health"
+    },
+    "viu_search_keywords": "dentistry",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Bachelor of Science in Nursing",
+    "nid": 170,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 10,
+      "title": "Health"
+    },
+    "viu_search_keywords": "public health",
+    "noc_search_keywords": []
+  }
+]
