@@ -1,4 +1,3 @@
-const { raw } = require('express')
 const fs = require('fs')
 
 const rawData = require('./stage4.json')
