@@ -9,7 +9,12 @@
       "title": "Trades and Applied Technology"
     },
     "viu_search_keywords": "Esthetics and Spa Therapy, Continuing Education, Continuing Studies",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "estheticians"
+    ],
+    "known_noc_groups": [
+      "6562"
+    ]
   },
   {
     "title": "Computer Science Honours",
@@ -21,7 +26,9 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": "analytics, artificial intelligence, data, information technology, software engineering",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "computer science"
+    ]
   },
   {
     "title": "Psychology Honours (BSc)",
@@ -33,7 +40,9 @@
       "title": "Science and Technology"
     },
     "viu_search_keywords": "counseling, counselling, psycology",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "psychology"
+    ]
   },
   {
     "title": "Baking and Pastry Arts Management",
@@ -45,7 +54,9 @@
       "title": "Trades and Applied Technology"
     },
     "viu_search_keywords": "baker",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Baking"
+    ]
   },
   {
     "title": "Aquaculture (BSc)",
@@ -57,7 +68,12 @@
       "title": "Science and Technology"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "aquaculture"
+    ],
+    "known_noc_groups": [
+      "0823"
+    ]
   },
   {
     "title": "Aquaculture (BA)",
@@ -69,7 +85,12 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "aquaculture"
+    ],
+    "known_noc_groups": [
+      "0823"
+    ]
   },
   {
     "title": "Information Technology and Applied Systems – Web and Mobile Development Diploma",
@@ -81,7 +102,7 @@
       "title": "Trades and Applied Technology"
     },
     "viu_search_keywords": "itas, software engineering",
-    "noc_search_keywords": []
+    "noc_search_keywords": ["computer science"]
   },
   {
     "title": "Professional Indigenous Lands Management Certificate",
@@ -105,7 +126,8 @@
       "title": "Education"
     },
     "viu_search_keywords": "athletics, biomechanics, kinesiology, medical terminology, occupational therapy, personal trainer, physiotherapy",
-    "noc_search_keywords": []
+    "noc_search_keywords": ["kinesiology", "human kinetics", "sport therapy", "health sciences", "sports injury management"],
+    "known_noc_groups": ["3144"]
   },
   {
     "title": "Geography Honours (BA)",
@@ -117,7 +139,8 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": "urban planning",
-    "noc_search_keywords": []
+    "noc_search_keywords": [" urban and regional planning", "geography"],
+    "known_noc_groups": ["2153"]
   },
   {
     "title": "Integrated Engineering Technologist Diploma",
@@ -129,7 +152,7 @@
       "title": "Science and Technology"
     },
     "viu_search_keywords": "architecture, aerospace, aviation, civil engineering, civil technologist, engineering, engineering diploma, engineering technologist, mechanical, mechanics, tech sector",
-    "noc_search_keywords": []
+    "noc_search_keywords": ["engineering technology"]
   },
   {
     "title": "Anthropology Honours (BA)",
@@ -141,7 +164,8 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [],
+    "known_noc_groups": ["4169"]
   },
   {
     "title": "Indigenous/Xwulmuxw Studies (BA)",
@@ -156,7 +180,7 @@
     "noc_search_keywords": []
   },
   {
-    "title": "Fundamentals of Forest Harvesting Practices ",
+    "title": "Fundamentals of Forest Harvesting Practices",
     "nid": 4194,
     "duration": null,
     "credential": "Certificate",
