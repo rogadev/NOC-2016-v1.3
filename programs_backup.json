@@ -210,12 +210,80 @@
     "viu_search_keywords": "forestry, forester",
     "noc_search_keywords": [],
     "known_noc_groups": [
-      "8241",
-      "7511",
-      "8211",
-      "8616",
-      "7521"
+      "8241"
     ]
+  },
+  {
+    "title": "Cooperative Entrepreneur Training Certificate",
+    "nid": 4138,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 7,
+      "title": "Academic and Career Preparation and High School Equivalency (ABE)"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Certificate",
+    "nid": 4133,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 0,
+      "title": "Unknown"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Diploma",
+    "nid": 4132,
+    "duration": null,
+    "credential": "Diploma",
+    "program_area": {
+      "nid": 0,
+      "title": "Unknown"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Bachelor Degree",
+    "nid": 4131,
+    "duration": "Bachelor's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 0,
+      "title": "Unknown"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Master Degree",
+    "nid": 4126,
+    "duration": "Master's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 0,
+      "title": "Unknown"
+    },
+    "viu_search_keywords": "graduate, Graduate Programs, MSc",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Associate Degree",
+    "nid": 4125,
+    "duration": "Associate's",
+    "credential": "Degree",
+    "program_area": {
+      "nid": 8,
+      "title": "Exploratory University Studies (EXPO)"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
   },
   {
     "title": "Biology Honours",
@@ -227,12 +295,7 @@
       "title": "Science and Technology"
     },
     "viu_search_keywords": "biotechnology, biotechnologist, botany, dentistry, ecology, environmental, food sciences, Marine, marine biologist, marine biology, nutritionist, phycology, vet, veterinary, veterinarian, vetinary, vetinarian, zoology",
-    "noc_search_keywords": [
-      "biology"
-    ],
-    "known_noc_groups": [
-      "2121"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Bachelor of Business Administration (BBA), Majors and Minors",
@@ -244,9 +307,7 @@
       "title": "Business and Management"
     },
     "viu_search_keywords": "analytics, buisness, commerce, supply chain",
-    "noc_search_keywords": [
-      "business administration"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Management (BBA)",
@@ -258,11 +319,7 @@
       "title": "Business and Management"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": [
-      "business administration",
-      "business management",
-      "management"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Marketing (BBA)",
@@ -274,11 +331,7 @@
       "title": "Business and Management"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": [
-      "business administration",
-      "business marketing",
-      "marketing"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "International Business (BBA)",
@@ -290,11 +343,7 @@
       "title": "Business and Management"
     },
     "viu_search_keywords": "analytics, buisness, commerce, international relations",
-    "noc_search_keywords": [
-      "business administration",
-      "international business",
-      "international"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Human Resources Management (BBA)",
@@ -306,11 +355,7 @@
       "title": "Business and Management"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": [
-      "business administration",
-      "business human resources",
-      "human resources"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Financial Services (BBA)",
@@ -322,11 +367,7 @@
       "title": "Business and Management"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": [
-      "business administration",
-      "business financial services",
-      "financial services"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Economics (BBA)",
@@ -338,11 +379,7 @@
       "title": "Business and Management"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": [
-      "business administration",
-      "business economics",
-      "economics"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Accounting (BBA)",
@@ -354,11 +391,7 @@
       "title": "Business and Management"
     },
     "viu_search_keywords": "book keeping, bookkeeping",
-    "noc_search_keywords": [
-      "business administration",
-      "business accounting",
-      "accounting"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Legal Studies",
@@ -394,9 +427,7 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": [
-      "sociology"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Psychology Honours (BA)",
@@ -408,9 +439,7 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": "counseling, counselling, psycology",
-    "noc_search_keywords": [
-      "psychology"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "History Honours (BA)",
@@ -422,9 +451,7 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": [
-      "History"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Philosophy Honours (BA)",
@@ -448,9 +475,7 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": [
-      "english"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Education Assistant and Community Support",
@@ -462,14 +487,10 @@
       "title": "Human Services"
     },
     "viu_search_keywords": "Educational Assistant",
-    "noc_search_keywords": [
-      "teaching assistance",
-      "educational assistance",
-      "social science"
-    ]
+    "noc_search_keywords": []
   },
   {
-    "title": "Certificate in Adventure Tourism and Recreation",
+    "title": "Certificate in Adventure Tourism and Recreation ",
     "nid": 1301,
     "duration": null,
     "credential": "Certificate",
@@ -478,11 +499,19 @@
       "title": "Tourism, Recreation and Hospitality"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": [],
-    "known_noc_groups": [
-      "6531",
-      "6313"
-    ]
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Addiction Studies",
+    "nid": 1294,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 3,
+      "title": "Arts, Humanities and Social Sciences"
+    },
+    "viu_search_keywords": "addicts",
+    "noc_search_keywords": []
   },
   {
     "title": "Languages and Culture (Romance Languages) (BA)",
@@ -506,13 +535,79 @@
       "title": "Education"
     },
     "viu_search_keywords": "kinesiology, physiotherapy, occupational therapy, biomechanics, personal trainer",
-    "noc_search_keywords": [
-      "physical education",
-      "recreation",
-      "occupational therapy",
-      "physiotherapy",
-      "rehabilitation therapists"
-    ]
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Animal Care Aide",
+    "nid": 311,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 299,
+      "title": "Professional Development and Training"
+    },
+    "viu_search_keywords": "Continuing Education, Continuing Studies, vetinary, veterinarian, vet",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Medical Device Reprocessing Technician",
+    "nid": 305,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 299,
+      "title": "Professional Development and Training"
+    },
+    "viu_search_keywords": "Continuing Education, Continuing Studies",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Medical Office Assistant",
+    "nid": 306,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 299,
+      "title": "Professional Development and Training"
+    },
+    "viu_search_keywords": "book keeping, bookkeeping, Continuing Education, Continuing Studies",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Hospital Unit Coordinator",
+    "nid": 307,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 299,
+      "title": "Professional Development and Training"
+    },
+    "viu_search_keywords": "Continuing Education, Continuing Studies",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "British Columbia First Nations Building Inspector",
+    "nid": 301,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 299,
+      "title": "Professional Development and Training"
+    },
+    "viu_search_keywords": "Aboriginal, Continuing Education, Continuing Studies, indigenous",
+    "noc_search_keywords": []
+  },
+  {
+    "title": "Managing Conflict In The Workplace",
+    "nid": 300,
+    "duration": null,
+    "credential": "Certificate",
+    "program_area": {
+      "nid": 299,
+      "title": "Professional Development and Training"
+    },
+    "viu_search_keywords": null,
+    "noc_search_keywords": []
   },
   {
     "title": "Proficiency in Language and Culture",
@@ -536,9 +631,7 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": "architecture, civil engineering, urban planning",
-    "noc_search_keywords": [
-      "urban and regional planning"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Master of Geographic Information Systems (GIS) Applications",
@@ -562,10 +655,7 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": [],
-    "known_noc_groups": [
-      "4161"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Bachelor of Arts (BA), Honours, Majors, and Minors",
@@ -589,10 +679,7 @@
       "title": "Trades and Applied Technology"
     },
     "viu_search_keywords": "cook, food",
-    "noc_search_keywords": [
-      "food service administration",
-      "hotel and restaurant management"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Digital Media (BA)",
@@ -616,9 +703,7 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": "criminal justice, law enforcement, police",
-    "noc_search_keywords": [
-      "law and security"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Theatre",
@@ -630,9 +715,7 @@
       "title": "Art, Design and Performing Arts"
     },
     "viu_search_keywords": "actor, actress, acting",
-    "noc_search_keywords": [
-      "Acting programs"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Jazz Studies",
@@ -644,9 +727,7 @@
       "title": "Art, Design and Performing Arts"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": [
-      "Musical training"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Bachelor of Tourism Management",
@@ -658,12 +739,7 @@
       "title": "Tourism, Recreation and Hospitality"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": [
-      "hotel management"
-    ],
-    "known_noc_groups": [
-      "6313"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Welding",
@@ -675,9 +751,7 @@
       "title": "Trades and Applied Technology"
     },
     "viu_search_keywords": "apprenticeship, plumbing, red seal, welder",
-    "noc_search_keywords": [
-      "welding"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Professional Baking and Pastry Arts",
@@ -689,10 +763,7 @@
       "title": "Trades and Applied Technology"
     },
     "viu_search_keywords": "baker, apprenticeship, red seal",
-    "noc_search_keywords": [
-      "baking",
-      "bakers"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Power Engineering/Process Operator - 4th Class",
@@ -704,9 +775,7 @@
       "title": "Trades and Applied Technology"
     },
     "viu_search_keywords": "mechanical, mechanics",
-    "noc_search_keywords": [
-      "power engineering"
-    ]
+    "noc_search_keywords": []
   },
   {
     "title": "Marine and Motorcycle Mechanical Technician",
