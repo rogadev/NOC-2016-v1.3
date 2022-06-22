@@ -862,7 +862,9 @@
       "title": "Science and Technology"
     },
     "viu_search_keywords": "conservationist, environmental",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Resource Management"
+    ]
   },
   {
     "title": "Information Technology and Applied Systems – Systems Administration and Networking Diploma",
@@ -874,7 +876,11 @@
       "title": "Trades and Applied Technology"
     },
     "viu_search_keywords": "itas",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Information Technology",
+      "Systems Administration",
+      "Networking"
+    ]
   },
   {
     "title": "Forest Resources Technology",
@@ -886,7 +892,9 @@
       "title": "Science and Technology"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Forest Resources"
+    ]
   },
   {
     "title": "Fisheries and Aquaculture Technology",
@@ -898,7 +906,9 @@
       "title": "Science and Technology"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Aquaculture"
+    ]
   },
   {
     "title": "Computer Science",
@@ -910,7 +920,9 @@
       "title": "Science and Technology"
     },
     "viu_search_keywords": "analytics, artificial intelligence, computer engineering, computers, cyber, cybersecurity, data, information, information technology, security, software engineering",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Computer Science"
+    ]
   },
   {
     "title": "Mathematics (BSc)",
@@ -922,7 +934,9 @@
       "title": "Science and Technology"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Mathematics"
+    ]
   },
   {
     "title": "Geography (BSc)",
@@ -934,7 +948,9 @@
       "title": "Science and Technology"
     },
     "viu_search_keywords": "civil engineering, urban planning",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Geography"
+    ]
   },
   {
     "title": "Earth Science (BSc)",
@@ -946,7 +962,9 @@
       "title": "Science and Technology"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Earth Science"
+    ]
   },
   {
     "title": "Chemistry (BSc)",
@@ -958,7 +976,9 @@
       "title": "Science and Technology"
     },
     "viu_search_keywords": "bachelor of medicine, biochemistry, chemical engineering, dentistry, environmental, food sciences, medical, medicine, nutritionist, pharmacist, pharmacology, pharmacy, pharmaceuticals",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Chemistry"
+    ]
   },
   {
     "title": "Psychology (BSc)",
@@ -970,7 +990,9 @@
       "title": "Science and Technology"
     },
     "viu_search_keywords": "counseling, counselling, psycology",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Psychology"
+    ]
   },
   {
     "title": "Geoscience (BSc)",
@@ -982,7 +1004,9 @@
       "title": "Science and Technology"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Geoscience"
+    ]
   },
   {
     "title": "Computer Science (BSc)",
@@ -994,7 +1018,9 @@
       "title": "Science and Technology"
     },
     "viu_search_keywords": "analytics, artificial intelligence, computer engineering, computers, cyber, cybersecurity, data, information, information technology, security, software engineering",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Computer Science"
+    ]
   },
   {
     "title": "Biology (BSc)",
@@ -1006,7 +1032,9 @@
       "title": "Science and Technology"
     },
     "viu_search_keywords": "bachelor of medicine, biotechnology, biotechnologist, botany, dentistry, ecology, environmental, food sciences, Marine, marine biologist, marine biology, medical, medicine, nutritionist, pharmacist, pharmacology, pharmacy, pharmaceuticals, phycology, vet, veterinary, veterinarian, vetinary, vetinarian, zoology",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Biology"
+    ]
   },
   {
     "title": "Bachelor of Science (BSc), Honours, Majors, Minors, and Transfer",
@@ -1018,7 +1046,9 @@
       "title": "Science and Technology"
     },
     "viu_search_keywords": "environmental, medical, medicine, pharmaceuticals, pharmacology, pharmacy, science, bach, bachelor of science, bachelor",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Science"
+    ]
   },
   {
     "title": "Bachelor of Science in Fisheries and Aquaculture",
@@ -1030,7 +1060,10 @@
       "title": "Science and Technology"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Fisheries",
+      "Aquaculture"
+    ]
   },
   {
     "title": "Bachelor of Natural Resource Protection",
@@ -1042,7 +1075,10 @@
       "title": "Science and Technology"
     },
     "viu_search_keywords": "environmental",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Natural Resource",
+      "Resource Protection"
+    ]
   },
   {
     "title": "Media Studies (BA)",
@@ -1054,7 +1090,12 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "multimedia",
+      "media",
+      "digital media",
+      "media studies"
+    ]
   },
   {
     "title": "Mathematics (BA)",
@@ -1066,7 +1107,9 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Mathematics"
+    ]
   },
   {
     "title": "Computer Science (BA)",
@@ -1078,7 +1121,9 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": "analytics, artificial intelligence, computers, cyber, cybersecurity, data, information, information technology, security, software engineering",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Computer Science"
+    ]
   },
   {
     "title": "Chemistry (BA)",
@@ -1090,7 +1135,9 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": "biochemistry, environmental, food sciences, medical, medicine, nutritionist, pharmacist, pharmacology, pharmacy, pharmaceuticals",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Chemistry"
+    ]
   },
   {
     "title": "Business (BA)",
@@ -1102,7 +1149,9 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": "analytics, buisness, commerce",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Business"
+    ]
   },
   {
     "title": "Biology (BA)",
@@ -1114,7 +1163,9 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": "botany, ecology, environmental, food sciences, Marine, marine biologist, environment, marine biology, nutritionist, phycology, vet, veterinary, veterinarian, vetinary, vetinarian, zoology",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Biology"
+    ]
   },
   {
     "title": "Studies in Women and Gender (BA)",
@@ -1126,7 +1177,9 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "womens studies"
+    ]
   },
   {
     "title": "Sociology (BA)",
@@ -1138,7 +1191,9 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Sociology"
+    ]
   },
   {
     "title": "Psychology (BA)",
@@ -1150,7 +1205,9 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": "counseling, counselling, psycology",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Psychology"
+    ]
   },
   {
     "title": "Political Studies (BA)",
@@ -1162,7 +1219,10 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": "international relations, political science",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Political Studies",
+      "politics"
+    ]
   },
   {
     "title": "Kinesiology (BA)",
@@ -1174,7 +1234,10 @@
       "title": "Education"
     },
     "viu_search_keywords": "athletics, biomechanics, kinesiology, medical terminology, nutrition, occupational therapy, personal trainer, physiotherapy",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Kinesiology",
+      "physiotherapy"
+    ]
   },
   {
     "title": "Philosophy (BA)",
@@ -1186,19 +1249,9 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
-  },
-  {
-    "title": "Liberal Studies (BA)",
-    "nid": 220,
-    "duration": "Bachelor's",
-    "credential": "Degree",
-    "program_area": {
-      "nid": 3,
-      "title": "Arts, Humanities and Social Sciences"
-    },
-    "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Philosophy"
+    ]
   },
   {
     "title": "History (BA)",
@@ -1210,7 +1263,9 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "history"
+    ]
   },
   {
     "title": "Global Studies (BA)",
@@ -1222,7 +1277,10 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": "climate change, international relations, sustainable, sustainability",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "global studies",
+      "international relations"
+    ]
   },
   {
     "title": "Geography (BA)",
@@ -1234,7 +1292,10 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": "urban planning",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "geography",
+      "urban planning"
+    ]
   },
   {
     "title": "English (BA)",
@@ -1246,7 +1307,9 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": "english, en",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "English"
+    ]
   },
   {
     "title": "Economics (BA)",
@@ -1258,7 +1321,9 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Economics"
+    ]
   },
   {
     "title": "Digital Media Studies (BA)",
@@ -1270,7 +1335,10 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "digital media",
+      "digital media studies"
+    ]
   },
   {
     "title": "Criminology (BA)",
@@ -1282,7 +1350,9 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": "criminal justice, law enforcement, police",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Criminology"
+    ]
   },
   {
     "title": "Creative Writing and Journalism (BA)",
@@ -1294,7 +1364,10 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": "communications",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "creative writing",
+      "journalism"
+    ]
   },
   {
     "title": "Anthropology (BA)",
@@ -1306,7 +1379,9 @@
       "title": "Arts, Humanities and Social Sciences"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Anthropology"
+    ]
   },
   {
     "title": "Social Services",
@@ -1318,7 +1393,9 @@
       "title": "Human Services"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Social Services"
+    ]
   },
   {
     "title": "Early Childhood Education and Care",
@@ -1330,7 +1407,12 @@
       "title": "Human Services"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "education",
+      "human services",
+      "early childhood education",
+      "early childhood care"
+    ]
   },
   {
     "title": "Child and Youth Care Diploma",
@@ -1342,7 +1424,10 @@
       "title": "Human Services"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "child care",
+      "youth care"
+    ]
   },
   {
     "title": "Bachelor of Social Work",
@@ -1354,7 +1439,10 @@
       "title": "Human Services"
     },
     "viu_search_keywords": "counseling, counselling",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "social work",
+      "social science"
+    ]
   },
   {
     "title": "Child and Youth Care (BA)",
@@ -1366,7 +1454,10 @@
       "title": "Human Services"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "child care",
+      "youth care"
+    ]
   },
   {
     "title": "Health Care Assistant",
@@ -1378,7 +1469,9 @@
       "title": "Health"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "health care"
+    ]
   },
   {
     "title": "Dental Assistant",
@@ -1390,7 +1483,11 @@
       "title": "Health"
     },
     "viu_search_keywords": "dentistry",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "dental assistant",
+      "dentistry",
+      "dental health"
+    ]
   },
   {
     "title": "Community Mental Health Worker",
@@ -1402,19 +1499,9 @@
       "title": "Health"
     },
     "viu_search_keywords": "Continuing Education, Continuing Studies, public health",
-    "noc_search_keywords": []
-  },
-  {
-    "title": "Activity Assistant",
-    "nid": 146,
-    "duration": null,
-    "credential": "Certificate",
-    "program_area": {
-      "nid": 10,
-      "title": "Health"
-    },
-    "viu_search_keywords": "Continuing Education, Continuing Studies",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "mental health"
+    ]
   },
   {
     "title": "Practical Nursing",
@@ -1426,19 +1513,9 @@
       "title": "Health"
     },
     "viu_search_keywords": "lpn, public health",
-    "noc_search_keywords": []
-  },
-  {
-    "title": "Aboriginal University Bridging",
-    "nid": 158,
-    "duration": null,
-    "credential": "Certificate",
-    "program_area": {
-      "nid": 7,
-      "title": "Academic and Career Preparation and High School Equivalency (ABE)"
-    },
-    "viu_search_keywords": "First Nations, indigenous",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "nursing"
+    ]
   },
   {
     "title": "Child and Youth Care First Nations Diploma",
@@ -1450,7 +1527,10 @@
       "title": "Indigenous"
     },
     "viu_search_keywords": "indigenous, Aboriginal",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "child care",
+      "youth care"
+    ]
   },
   {
     "title": "Arts One - First Nations",
@@ -1462,7 +1542,10 @@
       "title": "Indigenous"
     },
     "viu_search_keywords": "Aboriginal, indigenous",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "art",
+      "arts"
+    ]
   },
   {
     "title": "Master of Education in Special Education",
@@ -1474,7 +1557,10 @@
       "title": "Education"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "education",
+      "special education"
+    ]
   },
   {
     "title": "Master of Education in Educational Leadership",
@@ -1486,7 +1572,10 @@
       "title": "Education"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "education",
+      "educational leadership"
+    ]
   },
   {
     "title": "Bachelor of Education - Post Baccalaureate",
@@ -1498,7 +1587,9 @@
       "title": "Education"
     },
     "viu_search_keywords": "education, teacher",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "education"
+    ]
   },
   {
     "title": "Bachelor of Education",
@@ -1510,7 +1601,9 @@
       "title": "Education"
     },
     "viu_search_keywords": "teacher, education",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "education"
+    ]
   },
   {
     "title": "Wine Business",
@@ -1522,7 +1615,10 @@
       "title": "Tourism, Recreation and Hospitality"
     },
     "viu_search_keywords": "agriculture, agricultural",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "recreationa and hospitality",
+      "agriculture"
+    ]
   },
   {
     "title": "Management Skills for Supervisors",
@@ -1534,7 +1630,9 @@
       "title": "Business and Management"
     },
     "viu_search_keywords": "Continuing Education, Continuing Studies",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "management"
+    ]
   },
   {
     "title": "Event Management Certificate",
@@ -1546,7 +1644,9 @@
       "title": "Tourism, Recreation and Hospitality"
     },
     "viu_search_keywords": "Continuing Education, Continuing Studies",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "event management"
+    ]
   },
   {
     "title": "Certificate in Business Management",
@@ -1558,7 +1658,9 @@
       "title": "Business and Management"
     },
     "viu_search_keywords": "analytics, commerce",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "business management"
+    ]
   },
   {
     "title": "Office Administration",
@@ -1570,7 +1672,9 @@
       "title": "Trades and Applied Technology"
     },
     "viu_search_keywords": "accounting, book keeping, bookkeeping, financial assistant, legal assistant, office admin, office training, payroll assistant, receptionist, secretary, secretarial, office administration, paralegal",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "office administration"
+    ]
   },
   {
     "title": "Business Fundamentals for Indigenous Communities",
@@ -1582,7 +1686,9 @@
       "title": "Business and Management"
     },
     "viu_search_keywords": "analytics, buisness, commerce, First Nations, indigenous",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "business"
+    ]
   },
   {
     "title": "Tourism Studies",
@@ -1594,7 +1700,10 @@
       "title": "Tourism, Recreation and Hospitality"
     },
     "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "hotel and restaurant",
+      "recreationa and hospitality"
+    ]
   },
   {
     "title": "Recreation and Sport Management",
@@ -1606,7 +1715,10 @@
       "title": "Tourism, Recreation and Hospitality"
     },
     "viu_search_keywords": "athletics",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "athletics",
+      "recreationa and hospitality"
+    ]
   },
   {
     "title": "Hospitality Management Diploma",
@@ -1618,7 +1730,10 @@
       "title": "Tourism, Recreation and Hospitality"
     },
     "viu_search_keywords": "Hotel Management",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "hospitality management",
+      "hotel management"
+    ]
   },
   {
     "title": "Business Administration",
@@ -1630,7 +1745,10 @@
       "title": "Business and Management"
     },
     "viu_search_keywords": "analytics, buisness, commerce, supply chain",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "business administration",
+      "business"
+    ]
   },
   {
     "title": "Bachelor of Hospitality Management",
@@ -1642,7 +1760,10 @@
       "title": "Tourism, Recreation and Hospitality"
     },
     "viu_search_keywords": "Hotel Management",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "hospitality management",
+      "hotel management"
+    ]
   },
   {
     "title": "Adult Basic Education",
@@ -1654,7 +1775,10 @@
       "title": "Academic and Career Preparation and High School Equivalency (ABE)"
     },
     "viu_search_keywords": "ABE, Upgrading, Adult Graduation Diploma, Highschool courses, high school courses",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "education",
+      "adult education"
+    ]
   },
   {
     "title": "Master of Business Administration (MBA)",
@@ -1666,7 +1790,9 @@
       "title": "Business and Management"
     },
     "viu_search_keywords": "analytics, buisness, commerce, masters in finance, supply chain",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "business administration"
+    ]
   },
   {
     "title": "Master of Arts in Sustainable Leisure Management",
@@ -1678,7 +1804,11 @@
       "title": "Tourism, Recreation and Hospitality"
     },
     "viu_search_keywords": "travel",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "recreationa and hospitality",
+      "hotel management",
+      "hospitality management"
+    ]
   },
   {
     "title": "Visual Art",
@@ -1690,7 +1820,9 @@
       "title": "Art, Design and Performing Arts"
     },
     "viu_search_keywords": "animator, animation",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "visual arts"
+    ]
   },
   {
     "title": "Bachelor of Music in Jazz Studies",
@@ -1702,7 +1834,10 @@
       "title": "Art, Design and Performing Arts"
     },
     "viu_search_keywords": "piano",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Musical training",
+      "music"
+    ]
   },
   {
     "title": "Bachelor of Interior Design",
@@ -1714,7 +1849,9 @@
       "title": "Art, Design and Performing Arts"
     },
     "viu_search_keywords": "architecture",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "interior design"
+    ]
   },
   {
     "title": "Visual Art (BA)",
@@ -1726,7 +1863,9 @@
       "title": "Art, Design and Performing Arts"
     },
     "viu_search_keywords": "animator, animation",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "visual arts"
+    ]
   },
   {
     "title": "Bachelor of Design in Graphic Design",
@@ -1738,31 +1877,9 @@
       "title": "Art, Design and Performing Arts"
     },
     "viu_search_keywords": "animator, animation, design, graphic design, photography",
-    "noc_search_keywords": []
-  },
-  {
-    "title": "Foundations for Success",
-    "nid": 207,
-    "duration": null,
-    "credential": "Certificate",
-    "program_area": {
-      "nid": 7,
-      "title": "Academic and Career Preparation and High School Equivalency (ABE)"
-    },
-    "viu_search_keywords": "presentation skills training",
-    "noc_search_keywords": []
-  },
-  {
-    "title": "Workplace Essential Skills and Training",
-    "nid": 242,
-    "duration": null,
-    "credential": "Certificate",
-    "program_area": {
-      "nid": 7,
-      "title": "Academic and Career Preparation and High School Equivalency (ABE)"
-    },
-    "viu_search_keywords": null,
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "Graphic Design"
+    ]
   },
   {
     "title": "Dental Hygiene",
@@ -1774,7 +1891,10 @@
       "title": "Health"
     },
     "viu_search_keywords": "dentistry",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "dentistry",
+      "dental hygiene"
+    ]
   },
   {
     "title": "Bachelor of Science in Nursing",
@@ -1786,6 +1906,8 @@
       "title": "Health"
     },
     "viu_search_keywords": "public health",
-    "noc_search_keywords": []
+    "noc_search_keywords": [
+      "nursing"
+    ]
   }
 ]
